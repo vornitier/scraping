@@ -1,1 +1,1 @@
-# scraping
+# Scraping experiments on text and on tesseract
